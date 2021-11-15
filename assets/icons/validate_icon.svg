@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="94" viewBox="0 0 84 94">
+  <g id="validate_icon" transform="translate(-71.5 206)">
+    <circle id="Ellipse_1258" data-name="Ellipse 1258" cx="38" cy="38" r="38" transform="translate(75.5 -192)" fill="#fff" stroke="#f0f0f0" stroke-width="8"/>
+    <path id="Exclusion_1" data-name="Exclusion 1" d="M991.4,1004a.114.114,0,0,1-.085-.043c-.477-.53.079-5.9.085-5.957H990a4,4,0,0,1-4-4v-9a4,4,0,0,1,4-4h18a4,4,0,0,1,4,4v9a4,4,0,0,1-4,4H997.205l0,.006C996.721,998.619,992.472,1004,991.4,1004Zm14.1-17a2.5,2.5,0,1,0,2.5,2.5A2.5,2.5,0,0,0,1005.5,987Zm-6,0a2.5,2.5,0,1,0,2.5,2.5A2.5,2.5,0,0,0,999.5,987Zm-6,0a2.5,2.5,0,1,0,2.5,2.5A2.5,2.5,0,0,0,993.5,987Z" transform="translate(-861 -1187)" fill="gold"/>
+    <g id="ic-contact-mobile" transform="translate(94.92 -176.75)">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="24.474" height="42" rx="2" transform="translate(6.08 1.75)" fill="rgba(0,0,0,0)" stroke="#022c43" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="2.66" height="2.66" rx="0.64" transform="translate(16.987 33.461)" fill="rgba(0,0,0,0)" stroke="#022c43" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

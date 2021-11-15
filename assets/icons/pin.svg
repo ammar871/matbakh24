@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="pin" transform="translate(-0.063)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="14" height="14" transform="translate(0.063)" fill="#200e32" opacity="0"/>
+    <path id="Path_7" data-name="Path 7" d="M8.791,2A4.791,4.791,0,0,0,4,6.743c0,3.282,4.222,6.935,4.4,7.091a.6.6,0,0,0,.779,0c.21-.156,4.4-3.809,4.4-7.091A4.791,4.791,0,0,0,8.791,2Zm0,10.57c-1-.952-3.593-3.593-3.593-5.827a3.593,3.593,0,0,1,7.187,0C12.384,8.959,9.791,11.618,8.791,12.57Z" transform="translate(-1.604 -1.113)" fill="#200e32"/>
+    <path id="Path_8" data-name="Path 8" d="M10.6,6a2.1,2.1,0,1,0,2.1,2.1A2.1,2.1,0,0,0,10.6,6Zm0,2.994a.9.9,0,1,1,.9-.9A.9.9,0,0,1,10.6,8.994Z" transform="translate(-3.409 -2.717)" fill="#200e32"/>
+  </g>
+</svg>
